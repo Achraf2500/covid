@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css2?family=Bree+Serif&family=Squada+One&display=swap);
 .bg{
   background-image: url(/images/bg.svg?afdd514d3bb040ad678a6225a5a617f7);
   background-size: cover;
@@ -11241,6 +11242,14 @@ video {
 
 .font-mono {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.font-ubuntu {
+  font-family: Squada One, cursive;
+}
+
+.font-base {
+  font-family: Bree Serif, sans-serif;
 }
 
 .font-thin {
@@ -42524,6 +42533,14 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .sm\:font-ubuntu {
+    font-family: Squada One, cursive;
+  }
+
+  .sm\:font-base {
+    font-family: Bree Serif, sans-serif;
+  }
+
   .sm\:font-thin {
     font-weight: 100;
   }
@@ -73633,6 +73650,14 @@ video {
 
   .md\:font-mono {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .md\:font-ubuntu {
+    font-family: Squada One, cursive;
+  }
+
+  .md\:font-base {
+    font-family: Bree Serif, sans-serif;
   }
 
   .md\:font-thin {
@@ -104746,6 +104771,14 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .lg\:font-ubuntu {
+    font-family: Squada One, cursive;
+  }
+
+  .lg\:font-base {
+    font-family: Bree Serif, sans-serif;
+  }
+
   .lg\:font-thin {
     font-weight: 100;
   }
@@ -135857,6 +135890,14 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .xl\:font-ubuntu {
+    font-family: Squada One, cursive;
+  }
+
+  .xl\:font-base {
+    font-family: Bree Serif, sans-serif;
+  }
+
   .xl\:font-thin {
     font-weight: 100;
   }
@@ -166966,6 +167007,14 @@ video {
 
   .\32xl\:font-mono {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .\32xl\:font-ubuntu {
+    font-family: Squada One, cursive;
+  }
+
+  .\32xl\:font-base {
+    font-family: Bree Serif, sans-serif;
   }
 
   .\32xl\:font-thin {
